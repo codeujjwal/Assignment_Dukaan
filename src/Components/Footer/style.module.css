@@ -40,3 +40,28 @@ ul > li {
   color: #fff;
   margin-bottom: 16px;
 }
+
+.text {
+  list-style: none;
+  font-size: 18px;
+  color: #fff;
+  margin-bottom: 16px;
+}
+.number {
+  list-style: none;
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 16px;
+  background-color: #fff;
+  margin-left: 4px;
+  border-radius: 50%;
+  height: 23px;
+  width: 23px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}

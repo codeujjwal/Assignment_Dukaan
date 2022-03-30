@@ -22,7 +22,10 @@ const Footer = () => {
         </ul>
         <ul>
           <li>About</li>
-          <li>Jobs</li>
+          <div className={classes.container}>
+            <li className={classes.text}>Jobs</li>
+            <text className={classes.number}>3</text>
+          </div>
         </ul>
         <ul>
           <li>Facebook</li>

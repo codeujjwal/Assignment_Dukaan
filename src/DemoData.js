@@ -1,0 +1,21 @@
+const Data = [
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "Review the facts cool is the best.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+  "There is no Sore it will Not Heal, No cool it will not Subdue.",
+  "coziness building for tomorrow",
+];
+export default Data;
