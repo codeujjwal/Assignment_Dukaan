@@ -1,0 +1,34 @@
+.header_container {
+  background-color: #146eb4;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 23px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.logo {
+  height: 44px;
+  width: 156px;
+}
+.sub_container {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  height: 44px;
+  width: 270px;
+}
+.signin_button {
+  font-size: 18px;
+  color: white;
+}
+.pc_button {
+  height: 50px;
+  width: 177px;
+  border-radius: 4px;
+  background-color: white;
+  border: none;
+  color: #146eb4;
+  font-size: 18px;
+}

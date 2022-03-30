@@ -1,0 +1,41 @@
+.Products_container {
+  background-color: white;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.products_heading {
+  font-size: 36px;
+  font-weight: 600;
+  color: #1a181e;
+  margin-bottom: 50;
+}
+.cards_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 16px;
+  justify-content: space-between;
+}
+.card_container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-top: 32px;
+}
+.card_logo {
+  width: 320px;
+  height: 180px;
+}
+.card_title {
+  color: #1a181e;
+  font-size: 20;
+  font-weight: 600;
+  margin-top: 16px;
+}
+.card_content {
+  color: #4d4d4d;
+  font-size: 16;
+  margin-top: 4px;
+}

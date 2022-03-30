@@ -1,0 +1,31 @@
+.Features_container {
+  height: 332px;
+  background-color: rgba(20, 110, 180, 0.05);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.card_container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 25%;
+}
+.card_logo {
+  margin-top: 76px;
+}
+.card_title {
+  text-align: center;
+  margin-top: 36px;
+  color: #1a181e;
+  font-size: 20;
+  font-weight: bold;
+}
+.card_content {
+  margin-top: 10px;
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 16;
+}
