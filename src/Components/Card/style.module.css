@@ -126,6 +126,12 @@
   flex-direction: row;
   justify-content: space-between;
   margin-top: 24px;
+  align-items: center;
+}
+.pagination_row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 .next_text {
   color: #146eb4;
