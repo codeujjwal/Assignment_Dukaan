@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "GG Regular";
+  src: local("Galano Grotesque"),
+    url(fonts/galanogrotesque-regular.otf) format("opentype");
+}
+@font-face {
+  font-family: "GG Medium";
+  src: local("Galano Grotesque"),
+    url(fonts/galanogrotesque-medium.otf) format("opentype");
+}
+@font-face {
+  font-family: "GG semiBold";
+  src: local("Galano Grotesque"),
+    url(fonts/galanogrotesque-semibold.otf) format("opentype");
+}

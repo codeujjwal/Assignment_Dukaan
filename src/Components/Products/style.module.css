@@ -10,6 +10,7 @@
   font-weight: 600;
   color: #1a181e;
   margin-bottom: 50;
+  font-family: "GG semiBold";
 }
 .cards_container {
   display: flex;
@@ -31,11 +32,12 @@
 .card_title {
   color: #1a181e;
   font-size: 20;
-  font-weight: 600;
   margin-top: 16px;
+  font-family: "GG Medium";
 }
 .card_content {
   color: #4d4d4d;
   font-size: 16;
   margin-top: 4px;
+  font-family: "GG Regular";
 }

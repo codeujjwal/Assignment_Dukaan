@@ -14,6 +14,7 @@
 .bottomText {
   font-size: 14px;
   color: #fff;
+  font-family: "GG Regular";
 }
 .row {
   display: flex;
@@ -39,6 +40,7 @@ ul > li {
   font-size: 18px;
   color: #fff;
   margin-bottom: 16px;
+  font-family: "GG Regular";
 }
 
 .text {
@@ -46,6 +48,7 @@ ul > li {
   font-size: 18px;
   color: #fff;
   margin-bottom: 16px;
+  font-family: "GG Regular";
 }
 .number {
   list-style: none;

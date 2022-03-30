@@ -28,18 +28,20 @@
   font-size: 36px;
   color: #000;
   font-weight: 600;
+  font-family: "GG semiBold";
 }
 .text {
   font-size: 20px;
   color: #4d4d4d;
-  font-weight: 400;
   margin-top: 16px;
   margin-bottom: 46px;
   width: 80%;
+  font-family: "GG Regular";
 }
 .text2 {
   color: #4d4d4d;
   font-size: 16px;
+  font-family: "GG Medium";
 }
 .searchBox {
   height: 48px;
@@ -59,7 +61,7 @@
 .searchText {
   color: #1a181e;
   font-size: 16px;
-  font-weight: 400;
+  font-family: "GG Regular";
 }
 .generateButton {
   height: 50px;
@@ -70,6 +72,7 @@
   font-size: 18px;
   border-radius: 4px;
   margin-bottom: 48px;
+  font-family: "GG Medium";
 }
 .downloadButton {
   height: 50px;
@@ -79,6 +82,7 @@
   color: #146eb4;
   font-size: 18px;
   border-radius: 4px;
+  font-family: "GG Medium";
 }
 .row {
   display: flex;
@@ -92,6 +96,7 @@
   font-size: 20px;
   font-weight: 400;
   color: #1a181e;
+  font-family: "GG Medium";
 }
 .card_container {
   height: 60px;
@@ -108,6 +113,7 @@
   font-size: 16px;
   font-weight: 400;
   color: #1a181e;
+  font-family: "GG Regular";
 }
 .cards_container {
   display: flex;
@@ -124,6 +130,7 @@
 .next_text {
   color: #146eb4;
   margin-right: 6px;
+  font-family: "GG Regular";
 }
 .number {
   margin-right: 24px;
@@ -159,4 +166,5 @@
   color: #fff;
   padding: 4px 8px 4px 8px;
   border-radius: 4px;
+  font-family: "GG Medium";
 }
